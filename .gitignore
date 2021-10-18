@@ -1,0 +1,23 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyc
+
+# Telethon session cache
+*.session
+*.session-journal
+
+# Config
+config.ini
+
+# Test files
+test.pt
+
+# Logs
+logs/
+
+# Virtual envirment
+venv/
+
+.vscode/
+.idea/
